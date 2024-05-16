@@ -1,51 +1,17 @@
-# Welcome to your Expo app 👋
+## whattodotodayhuh (note-taking mobile apps)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+~ Project to recreate my <a href="https://note-sass.vercel.app">note-sass webapps</a> into mobile apps using React Native
 
-## Get started
+### Features
+~ Data is stores locally in the device without any dependencies to any backend. <br>
+~ (TBA) Payment Section to allow user to store unlimited notes (currently only 6 notes is allowed)
 
-1. Install dependencies
+<img src="https://github.com/syukranDev/whattodotodayhuh/assets/51852197/bde94f47-0735-40af-86e6-0c3176116fa9" width="300">
 
-   ```bash
-   npm install
-   ```
+<img src="https://github.com/syukranDev/whattodotodayhuh/assets/51852197/2da65d0c-a830-4623-acc8-f4dda73cb9a6" width="300">
 
-2. Start the app
+<img src="https://github.com/syukranDev/whattodotodayhuh/assets/51852197/dbf7bffd-4d59-45a4-9551-1454acd15957" width="300">
 
-   ```bash
-    npx expo start
-   ```
+<img src="https://github.com/syukranDev/whattodotodayhuh/assets/51852197/2696ed4a-4905-4236-a829-25dea5021400" width="300">
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# whattodotodayhuh
+<img src="https://github.com/syukranDev/whattodotodayhuh/assets/51852197/a746970c-f526-4f6c-8e99-e359bfed082d" width="300">
